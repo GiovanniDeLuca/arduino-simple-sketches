@@ -1,7 +1,7 @@
 /* 
   MorseCodeName
   
-  ggvWhat's your Morse code name?
+  What's your Morse code name?
 
   Using the board's LED, this sketch shows the input name (a string) in Morse code. 
  
